@@ -25,43 +25,11 @@ li:last-child {
         display: inline-block;
         margin: auto;
        }
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@moniquehohy 
-moniquehohy
-/
-reading_for_healing
-1
-01
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-reading_for_healing/css.css
-@moniquehohy
-moniquehohy Update css.css
-Latest commit 3055b90 40 minutes ago
- History
- 1 contributor
-626 lines (522 sloc)  13.5 KB
-  
 
 /* original */
 
 
-
-.nav {
+/* .nav {
        align-items: block;
 }
 #logo {
@@ -84,7 +52,7 @@ img{
 body{
         padding-left:50px;
  }
-
+ */
 
 /* .about {
     display: flex;
@@ -95,7 +63,7 @@ body{
     background-color: #ffa69e;
     height: 40vh; */
 
-.gallery {
+/* .gallery {
         display: flex;
         flex-wrap: wrap;
         padding: 10px;
@@ -170,7 +138,7 @@ li:last-child {
         width: 100px;
         padding-right :100px; 
         }
-
+ */
 /* css for book page */
 
 ul {
