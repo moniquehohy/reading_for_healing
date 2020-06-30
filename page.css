@@ -1,0 +1,27 @@
+ul {
+    display: inline-flex;
+    list-style-type: none;
+   }
+li:last-child {
+         float:right;
+       }
+ #googlelogo {
+     width: 100px;
+     text-align: left;
+ margin-right:  20px;
+ }
+ .buttons {
+     text-align: center;
+     width: 100px;
+     padding-right: 20px;
+    }
+ li.form {
+     text-align: right;
+     width: 100px;
+     padding-right :100px; 
+     }
+     .book {
+        text-align: centre;
+        display: inline-block;
+        margin: auto;
+       }
